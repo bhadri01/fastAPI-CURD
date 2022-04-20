@@ -8,5 +8,6 @@ source venv/bin/active
 
 > execute the program
 ```
+pip install fastapi[all]
 uvicorn app.main:app --reload
 ```
