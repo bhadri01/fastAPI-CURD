@@ -2,6 +2,7 @@
 
 > setup virtual environment for the project
 ```
+cd fastAPI-CURD
 python3 -m venv venv
 source venv/bin/activate
 ```
