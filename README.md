@@ -8,6 +8,6 @@ source venv/bin/activate
 
 > execute the program
 ```
-pip install fastapi[all]
+pip install fastapi[all] pymongo
 uvicorn app.main:app --reload
 ```
